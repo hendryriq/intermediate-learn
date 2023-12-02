@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "912893217234",
+    "project_id": "pesantrenudc",
+    "storage_bucket": "pesantrenudc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912893217234:android:9abf47a7cab6d29e43600b",
+        "android_client_info": {
+          "package_name": "com.example.intermediate_learn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJH6Hi7W6Wfex6quEMtfXlSiyM6SxafEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
